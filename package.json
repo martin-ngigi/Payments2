@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.3",
+        "@types/braintree-web": "^3.75.22",
+        "@vitejs/plugin-vue": "^4.1.0",
+        "@vue/compiler-sfc": "^3.2.47",
+        "autoprefixer": "^10.4.12",
+        "axios": "^0.21",
+        "cross-env": "^7.0",
+        "laravel-vite-plugin": "^0.7.4",
+        "postcss": "^8.4.18",
+        "resolve-url-loader": "^3.1.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.2.2",
+        "vue": "^3.2.36"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^1.0.2",
+        "@paypal/paypal-js": "^5.1.4",
+        "vue-json-pretty": "^2.2.3"
+    }
+}
